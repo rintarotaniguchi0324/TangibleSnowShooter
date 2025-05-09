@@ -10,6 +10,10 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 /[Aa]ssets/TSS/Sound/
+/[Aa]ssets/OpenCV+Unity/
+/[Aa]ssets/TextMesh Pro/
+/[Aa]ssets/Font/
+/[Aa]ssets/AllSkyFree/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
