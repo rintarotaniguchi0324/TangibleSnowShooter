@@ -22,7 +22,7 @@ OpenCVのArUcoマーカー認識を活用し、現実の駒の位置や角度と
   - LED照明 (アクリル板の上から下向きに設置し、カメラの認識精度を上げるため)
 - **駒用の材料**
   - 厚紙 (持ちやすい形に加工します)
-  - ArUcoマーカーを印刷した紙 (※別ファイル `markers.pdf` を印刷してください)
+  - マーカーを印刷した紙 × **2枚** (※別ファイル [TSSMarkers.pdf](https://github.com/rintarotaniguchi0324/TangibleSnowShooter/blob/main/TSSMarkers.pdf) を印刷してください)
 
 ---
 
