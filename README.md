@@ -64,7 +64,7 @@ OpenCVのArUcoマーカー認識を活用し、現実の駒の位置や角度と
 ---
 
 ## 使用技術 (Tech Stack)
-- **Unity** (※バージョン情報をここに追記)
+- **Unity** (2022.3.61f1)
 - **C#**
 - **OpenCV**
 - **OpenCV plus Unity** (Unity上でOpenCVライブラリを使用するためのアセット)
